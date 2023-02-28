@@ -1,1 +1,1 @@
-# IBM Dat aSciennce Professional Certificate
+# IBM Data Sciennce Professional Certificate
